@@ -9,7 +9,7 @@ function Header(){
                         Hello
                     </li>
                     <li>
-                        Head
+                        Header
                     </li>
                </ul>
            </nav>
